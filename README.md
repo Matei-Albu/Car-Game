@@ -2,4 +2,4 @@
 Car Game in C++
 
 ## Requirements
-Must install SFML graphic library and add other atached files in project folder before compiling game
+Must install SFML graphic library and add other attached files in project folder before compiling game
